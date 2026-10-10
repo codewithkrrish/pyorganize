@@ -1,0 +1,8 @@
+[
+  "tests/test_organizer.py::test_apply_and_undo_roundtrip",
+  "tests/test_organizer.py::test_custom_rules",
+  "tests/test_organizer.py::test_name_collision_gets_numbered",
+  "tests/test_organizer.py::test_organize_by_date",
+  "tests/test_organizer.py::test_plan_does_not_touch_anything",
+  "tests/test_organizer.py::test_plan_groups_by_type"
+]
